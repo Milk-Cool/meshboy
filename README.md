@@ -25,7 +25,19 @@ _3d render_
 
 i haven't tried it myself yet, but you can theoretically build one of these using the provided BOM (`bom.xml`), gerber (`3d/gerbers.zip`) and 3d model files (`3d/`). that should be enough to build your own!! (well, except for the u.fl to sma adapters which you'll have to feed through the holes and attach to the HT-CT62 yourself. that shouldn't be too much of a problem though)
 
-don't forget to set `$GBDK_HOME`
+once you have the board you're gonna want to flash it. use the usb ports on the sides along with the appropriate buttons (hold the boot button while resetting or plugging it in):
+
+|button|function|
+|-|-|
+|SW1|RP2040 bootsel|
+|SW2|HT-CT62 bootsel|
+|SW3|reset|
+
+> important: do NOT power the boards from both usb ports or the gameboy and a usb port at the same time. there's no protection against that
+
+you can grab the meshtastic firmware from meshtastic's repos (and build it! see `meshtastic/variant.md` for board-specific files) and build this one using platformio (or just grab the binary from `firmware/` and upload it to the RP2040)
+
+don't forget to set `$GBDK_HOME` while compiling the ROM if you wanna make any changes to it! also don't forget to update `rom.h` afterwards
 
 ## why this was made
 
