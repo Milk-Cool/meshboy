@@ -1,6 +1,8 @@
 # meshboy
 a meshtastic gameboy cartridge
 
+![zine](images/zine.png)
+
 ![case 3d model](images/3d2.png)
 
 ## what is this? what does it do?
