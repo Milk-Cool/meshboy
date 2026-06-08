@@ -1,0 +1,21 @@
+"Reference","Qty","Value","Part no","Link to component","Notes"
+"C1,C9,C19","3","1u","CC0603KRX7R7BB105",https://www.lcsc.com/product-detail/C106248.html
+"C2,C3,C4,C5,C6,C7,C8,C10,C11,C12","10","100n","CC0603KRX7R7BB104",https://www.lcsc.com/product-detail/C108079.html
+"C13,C14","2","15p","GRM1885C1H150J",https://www.lcsc.com/product-detail/C71651.html
+"C15,C18,C21,C22","4","10u","CC0603KRX5R6BB106",https://www.lcsc.com/product-detail/C326057.html
+"C16,C17","2","22p","CC0603JRNPO8BN220",https://www.lcsc.com/product-detail/C519390.html
+"C20","1","2.2u","GRM188R61A225K",https://www.lcsc.com/product-detail/C86013.html
+"J2,J3","2","USB_B_Micro","Molex-105017-0001",https://www.lcsc.com/product-detail/C136000.html
+"R1,R2","2","27.4","RC0603FR-0727R4L",https://www.lcsc.com/product-detail/C185346.html
+"R3,R4","2","1k","RC0603FR-071KL",https://www.lcsc.com/product-detail/C22548.html
+"R5,R6","2","10k","AC0603FR-0710KL",https://www.lcsc.com/product-detail/C116677.html
+"R7,R8","2","22","RC0603JR-0722RL",https://www.lcsc.com/product-detail/C108405.html
+"SW1,SW2,SW3","3","SW_Push","FG TC-6601-5.0-260-8.3",https://www.lcsc.com/product-detail/C7528752.html
+"U1","1","HT-CT62","Heltec_HT-CT62",https://www.aliexpress.us/item/3256808178334088.html,Mind the frequency!
+"U2","1","RP2040","RP2040",https://www.lcsc.com/product-detail/C2961140.html
+"U3","1","W25Q16JVSS","W25Q16JVSS",https://www.lcsc.com/product-detail/C131025.html
+"U4","1","NCP1117-3.3_SOT223","NCP1117IST33T3G",https://www.lcsc.com/product-detail/C2902119.html
+"U5,U6,U7","3","TXS0108EPW","TXS0108EPWR",https://www.lcsc.com/product-detail/C17206.html
+"U8","1","TXS0104EPW","TXS0104EPWR",https://www.lcsc.com/product-detail/C44955.html
+"X1","1","DSX321G-12MHZ","DSX321G 12MHZ",https://www.lcsc.com/product-detail/C93234.html
+"X2","1","NX3215SA-32.768KHZ","NX3215SA-32.768KHZ",https://www.lcsc.com/product-detail/C5136773.html
