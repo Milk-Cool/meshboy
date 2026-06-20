@@ -1,7 +1,11 @@
 # meshboy
 a meshtastic gameboy cartridge
 
-![case 3d model](images/3d2.png)
+> NOTE: this project is **not in a working state right now**! you might have to fix some things related to the RP2040 because it doesn't work at all on my board :(
+
+> the HT-CT62 and the meshtastic files work perfectly fine though.
+
+![irl photo](images/irl.png)
 
 ## what is this? what does it do?
 
@@ -23,7 +27,7 @@ _3d render_
 
 ## how do i build one?
 
-i haven't tried it myself yet, but you can theoretically build one of these using the provided BOM (`bom.xml`), gerber (`3d/gerbers.zip`) and 3d model files (`3d/`). that should be enough to build your own!! (well, except for the u.fl to sma adapters which you'll have to feed through the holes and attach to the HT-CT62 yourself. that shouldn't be too much of a problem though)
+you can build one of these using the provided BOM (`bom.xml`), gerber (`3d/gerbers.zip`) and 3d model files (`3d/`). that should be enough to build your own!! (well, except for the u.fl to sma adapters which you'll have to feed through the holes and attach to the HT-CT62 yourself. that shouldn't be too much of a problem though)
 
 once you have the board you're gonna want to flash it. use the usb ports on the sides along with the appropriate buttons (hold the boot button while resetting or plugging it in):
 
