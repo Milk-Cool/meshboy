@@ -1,9 +1,11 @@
 # meshboy
 a meshtastic gameboy cartridge
 
-> NOTE: this project is **not in a working state right now**! you might have to fix some things related to the RP2040 because it doesn't work at all on my board :(
+> **NOTE**: this project is **not in a working state right now**! you might have to fix some things related to the RP2040 because it doesn't work at all on my board :(
 
-> the HT-CT62 and the meshtastic files work perfectly fine though.
+> **what works?** -- the HT-CT62 seems to be working perfectly fine, that includes communication over USB as well as WiFi, BLE and LoRa (so Meshtastic works perfectly!!)
+
+> **what doesn't work?** -- the RP2040 and everythijng that relies on it. that means the actual gameboy communication doesn't work at all, you can't even get it to show up in the device list on a PC. i was unable to verify if communication with the HT-CT62 works either because of that.
 
 ![irl photo](images/irl.png)
 
