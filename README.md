@@ -7,7 +7,8 @@ a meshtastic gameboy cartridge
 
 > **what doesn't work?** -- the RP2040 and everythijng that relies on it. that means the actual gameboy communication doesn't work at all, you can't even get it to show up in the device list on a PC. i was unable to verify if communication with the HT-CT62 works either because of that.
 
-![irl photo](images/irl.png)
+![irl photo](images/irl1.png)
+![another irl photo](images/irl2.png)
 
 ## what is this? what does it do?
 
